@@ -16,6 +16,11 @@ public class Day1 {
 		System.out.println("bye");
 		
 	}
+	@Test
+	public void ThirdTest() {
+		System.out.println("sye you");
+		
+	}
 	
 	
 }
