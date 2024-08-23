@@ -21,6 +21,11 @@ public class Day1 {
 		System.out.println("sye you");
 		
 	}
+	@Test
+	public void ForthTest() {
+		System.out.println("manvitha");
+		
+	}
 	
 	
 }
